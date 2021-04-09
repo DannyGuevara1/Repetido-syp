@@ -5,3 +5,5 @@
 3- abrimos github con nuestra cuenta.(nos logeamos)
 4- ahora creamos nuetro repositorio remoto en github 
 5- usamos git clone para clonar nuestro repositorio remoto en el local
+
+https://github.com/DannyGuevara1/Repetido-syp
